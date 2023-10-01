@@ -1,0 +1,17 @@
+.section {
+        padding: 50px 0;
+        text-align: center;
+        color: white;
+        }
+        #vrsek { background-color: #BFD7EA; }
+        #hudba { background-color: #91AEC1; }
+        #cestovani { background-color: #508CA4; }
+        #kontakty {background-color: #0A8754;}
+.center-text {
+            text-align: center;
+            color: black;
+        }
+.img{
+    width: 1000px;
+    height: 667px;
+}
